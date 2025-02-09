@@ -6,7 +6,7 @@
 ![README](https://github.com/user-attachments/assets/e6cb2d27-80fb-4ead-8125-701a03479a02)
    
 ## Welcome to my Profile.
-**`aaaaaa`**
+**`Still a Padawan of the Code`**
 
 I am a student of Engineering and Computer Science, aspiring to enter the field of technology. I am passionate about technology, and my first contact with it was during high school through an introductory course at USP, where I discovered the world of Robotics.
         
